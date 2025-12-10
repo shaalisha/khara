@@ -25,11 +25,11 @@ class Config:
     ADMIN_ID = 7609619256
     
     # إعدادات PostgreSQL
-    DB_HOST = "localhost"
+    DB_HOST = "db.touhofujeeiptaxwzben.supabase.co"
     DB_PORT = 5432
-    DB_NAME = "tarakum_db"
-    DB_USER = "tarakum_user"
-    DB_PASSWORD = "tarakum_password_2024"
+    DB_NAME = "postgres"
+    DB_USER = "postgres"
+    DB_PASSWORD = "YOUR_PASSWORD"
     
     TRC20_WALLET = "TFF3JgjtGc9Kky2ko7NwtJyQY6NKujQ8YL"
     BEP20_WALLET = "0x39d730BF7fEb2648Ae1761ECd20972fD067C2114"
