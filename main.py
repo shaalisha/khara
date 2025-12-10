@@ -29,7 +29,7 @@ class Config:
     DB_PORT = 5432
     DB_NAME = "postgres"
     DB_USER = "postgres"
-    DB_PASSWORD = "YOUR_PASSWORD"
+    DB_PASSWORD = "24455539DIna"
     
     TRC20_WALLET = "TFF3JgjtGc9Kky2ko7NwtJyQY6NKujQ8YL"
     BEP20_WALLET = "0x39d730BF7fEb2648Ae1761ECd20972fD067C2114"
